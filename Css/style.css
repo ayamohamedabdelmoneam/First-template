@@ -1,0 +1,99 @@
+.container {
+  width: 1200px;
+  display: inline-block;
+  margin: 70px;
+}
+
+.image-container {
+  width: 45%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.image-container img {
+  width: 100%;
+  height: auto;
+}
+
+.text-container {
+  width: 50%;
+  display: inline-block;
+  vertical-align: top;
+  padding-left: 30px;
+}
+
+.text-container h2 {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.text-container p {
+  font-size: 20px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.text-container ul {
+  list-style: none;
+}
+
+.text-container li {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.text-container .icon {
+  vertical-align: middle;
+}
+
+.text-align-container {
+  text-align: center;
+}
+.text-align-text {
+  text-align: left;
+}
+.bg-gray {
+  background-color: rgb(226, 224, 224);
+}
+
+.reset {
+  font-size: 40px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.sub {
+  font-size: 20px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.product {
+  display: inline-block;
+  width: 100%;
+}
+
+.product-item {
+  width: 30%;
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 1.5%;
+  text-align: center;
+}
+
+.product-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.product-item h3 {
+  font-size: 30px;
+  margin: 15px 0;
+}
+
+.product-item p {
+  font-size: 20px;
+  line-height: 1.5;
+  color: #555;
+}
